@@ -1,0 +1,8 @@
+{
+  "name": "BillingKu v1.2",
+  "description": "Aplikasi cek tagihan dan riwayat pembayaran pelanggan WiFi internet dengan MySQL dan Node.js backend",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
